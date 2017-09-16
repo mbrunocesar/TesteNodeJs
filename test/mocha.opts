@@ -1,0 +1,3 @@
+--ui bdd
+--globals callback*
+--timeout 10000
